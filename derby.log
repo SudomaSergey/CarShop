@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 07 10:29:51 EEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0153-efa0-9167-000006fee180 
+on database directory memory:D:\Java\workspace\CarShopHibernate\carshopdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/D:/Java/workspace/DerbyTest/Res/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_74-b02
+user.dir=D:\Java\workspace\CarShopHibernate
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
